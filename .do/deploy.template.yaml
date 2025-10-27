@@ -5,7 +5,7 @@ spec:
       environment_slug: node-js
       git:
         branch: claude/initial-template-setup-011CUXyg8Xby28Js6XCtJAqJ
-        repo_clone_url: https://github.com/spinits4/HelloWorld-Template.git
+        repo_clone_url: https://github.com/spinits4/tree/HelloWorld-Template.git
       http_port: 8080
       instance_count: 1
       instance_size_slug: basic-xxs
